@@ -1,7 +1,7 @@
 
 ![](http://thenocklist.com/javascript/spa/single-page-app-angularjs-master/img/burntlabel/womens.png)
 
-[LIVE DEMO](http://thenocklist.com/javascript/spa/single-page-app-angularjs-master/index.html#/jasonjenkinslive)
+[LIVE DEMO](http://thenocklist.com/javascript/spa/single-page-app-angularjs-master/index.html#/burntlabel)
 
 1. DOWNLOAD THE [Angular SPA NOCKLIST BRANDSV2,23 ZIP](https://github.com/NOCKLIST/spa223)
 
